@@ -4,8 +4,6 @@
   <strong>Hardware engineer exploring GPUs, CUDA and ML systems</strong>
 </p>
 
----
-
 ## 👋 About me
 
 I’m a hardware engineer who likes understanding systems from the ground up.  
@@ -54,8 +52,4 @@ Repo here:
 
 ## 📬 Connect
 
-Happy to talk about GPUs, ML systems or hardware architecture.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=footer" />
-</p>
+Happy to talk about GPUs, CPUs, ML systems or hardware architecture.
