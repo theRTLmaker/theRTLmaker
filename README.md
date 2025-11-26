@@ -1,7 +1,4 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=140&section=header&text=Francisco%20Mendes&fontSize=45&animation=fadeIn" />
-</p>
 
 <p align="center">
   <strong>Hardware engineer exploring GPUs, CUDA and ML systems</strong>
@@ -24,10 +21,6 @@ I’m running a personal challenge to sharpen my understanding of GPU kernels an
 
 Repo here:  
 **https://github.com/theRTLmaker/CUDA_in_100_days**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:1E90FF,100:00BFFF&text=Learning%20CUDA%20in%20100%20Days&fontColor=ffffff&fontSize=22" />
-</p>
 
 ---
 
