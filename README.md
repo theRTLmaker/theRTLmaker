@@ -1,55 +1,63 @@
 <!-- Header Banner -->
 
 <p align="center">
-  <strong>Hardware engineer exploring GPUs, CUDA and ML systems</strong>
+  <strong>Low-level systems engineer working at the boundary of hardware, GPUs and ML performance</strong>
 </p>
 
 ## 👋 About me
 
-I’m a hardware engineer who likes understanding systems from the ground up.  
-My background sits in CPU design, verification and memory systems.  
-Lately I’ve been diving into GPU compute and deep learning workloads to connect the dots between hardware and software performance.
+I work close to the metal.
 
----
+My background is in CPU architecture, verification and memory systems, but my day-to-day curiosity lives in low-level programming: GPU kernels, performance modeling, and how real workloads stress real hardware.
 
-## 🔭 Current project
+I care about understanding systems end-to-end, from cache lines and warps up to training loops and frameworks, and using that understanding to make things faster and more predictable.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-3A3A3A?style=flat"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white"/>
+</p>
+
+## 🔭 Current focus
 
 ### **100 Days of CUDA**
-I’m running a personal challenge to sharpen my understanding of GPU kernels and performance behavior.
+A hands-on deep dive into GPU programming, kernel design and performance behavior.
 
-Repo here:  
+Repo:  
 **https://github.com/theRTLmaker/CUDA_in_100_days**
 
 ---
 
-## 🌱 Learning
+## 🌱 Actively building depth in
 
-- CUDA programming  
-- GPU memory behavior and profiling  
-- Deep learning systems and training loops  
-- How ML frameworks interact with hardware
+- CUDA and GPU kernel optimization  
+- GPU memory hierarchies and profiling  
+- Performance modeling and benchmarking  
+- ML training workloads and system bottlenecks  
 
 ---
 
-## ⚙️ Skills
+## ⚙️ Technical toolkit
 
-- CPU design and verification  
-- SystemVerilog, C++ and Python  
-- Cache behavior, coherency and memory systems  
-- ML workflow fundamentals and performance intuition  
+- Low-level C++ and performance-oriented Python  
+- CUDA programming and GPU profiling tools  
+- CPU microarchitecture, caches and coherency  
+- SystemVerilog and hardware-software interfaces  
 
 ---
 
 ## 🧠 Interests
 
-- GPU programming  
-- ML systems  
-- Hardware architecture  
-- Low level debugging  
-- Performance tuning
+- GPU and accelerator programming  
+- ML systems and performance engineering  
+- Hardware-aware software design  
+- Debugging at uncomfortable layers  
+- Making abstractions earn their keep  
 
 ---
 
 ## 📬 Connect
 
-Happy to talk about GPUs, CPUs, ML systems or hardware architecture.
+Always up for conversations about GPUs, low-level systems, performance engineering or how software really hits the hardware.
